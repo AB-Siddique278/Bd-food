@@ -16,7 +16,7 @@ function App() {
             <img src="https://www.themealdb.com/images/media/meals/n7qnkb1630444129.jpg" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">Burger</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">this food is very good text below as a natural lead-in to additional content. This content is a little bit longer.</p>
               <button type="button" class="btn btn-outline-primary">Add to cart</button>
             </div>
           </div>
